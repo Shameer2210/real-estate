@@ -1,0 +1,39 @@
+.hero_comp {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.hero_content {
+  font-family: "Poppins";
+  width: 654px;
+  margin-top: 36px;
+  opacity: 0px;
+  font-size: 64px;
+  font-weight: 500;
+  line-height: 96px;
+  text-align: left;
+}
+
+.hero_section {
+  width: 579px;
+  height: 111px;
+  margin-top: 24px;
+  font-family: "Poppins";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 43px;
+  text-align: left;
+}
+
+.hero_image {
+  width: 100%;
+  height: 987px;
+  gap: 0px;
+  opacity: 0px;
+  position: relative;
+  top: -145px;
+  left: 150px;
+  object-fit:fill;
+ 
+}
